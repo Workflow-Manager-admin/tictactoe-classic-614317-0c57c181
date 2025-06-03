@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 19, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "13347a3723fda7349aefc0f024e27f88", "format-version": 4, "code-base-name": "default", "filename": "tictactoe_classic/README.md", "knowledge_revision": 20}
